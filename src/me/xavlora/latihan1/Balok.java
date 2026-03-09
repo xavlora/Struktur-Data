@@ -1,4 +1,4 @@
-package me.xavlora.datastructure.latihan1;
+package me.xavlora.latihan1;
 
 import java.util.Scanner;
 
