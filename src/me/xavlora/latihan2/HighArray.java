@@ -1,5 +1,5 @@
 /*
-	Program:	ArrayApp.java
+	Program:	HighArray.java
 	Pembuat:	Muhamad Hafiz
 	Tanggal:	10 Maret 2026
 	Deskripsi:	Membuat program yang menggunakan array
