@@ -58,7 +58,6 @@ class ArrayApp {
 		for(i=0; i<nElmns; i++) {
 			System.out.print(arr[i] + " ");
 		}
-		
 		System.out.println("");
 		
 	}

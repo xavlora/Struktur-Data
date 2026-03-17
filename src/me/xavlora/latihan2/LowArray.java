@@ -60,9 +60,10 @@ class LowArrayApp{
 		}
 	
 		for(j=0; j<nElmns; j++) {
-			if(arr.getElem(j) == 55) {
-				break;
-			}
+            if (arr.getElem(j) == 55) {
+                break;
+            }
+        }
 		for(int k=j; k<nElmns; k++) {
 			arr.setElemn(k, arr.getElem(k+1));
 		}
@@ -72,6 +73,5 @@ class LowArrayApp{
 			System.out.print(arr.getElem(j) + " ");
 		}
 		System.out.println("");
-		}
-	}
+    }
 }
