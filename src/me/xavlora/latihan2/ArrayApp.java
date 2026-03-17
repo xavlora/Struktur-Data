@@ -21,7 +21,7 @@ class ArrayApp {
 		arr[4] = 22;
 		arr[5] = 88;
 		arr[6] = 11;
-		arr[7] = 00;
+		arr[7] = 0;
 		arr[8] = 66;
 		arr[9] = 33;						//Mengisi 10 indeks pertama array "arr"
 		nElmns = 10;						//Limit indeks array untuk pengulangan
