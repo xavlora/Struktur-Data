@@ -1,7 +1,7 @@
 /*
 	Program:	OrdArray.java
 	Pembuat:	Muhamad Hafiz
-	Tanggal:	10 Maret 2026
+	Tanggal:	17 Maret 2026
 	Deskripsi:	Demonstrasi array class dengan low level interface
 */
 
