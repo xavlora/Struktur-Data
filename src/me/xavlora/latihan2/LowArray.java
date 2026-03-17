@@ -1,5 +1,5 @@
 /*
-	Program:	lowArray.java
+	Program:	LowArray.java
 	Pembuat:	Muhamad Hafiz
 	Tanggal:	10 Maret 2026
 	Deskripsi:	Demonstrasi array class dengan low level interface
@@ -7,10 +7,10 @@
 
 package me.xavlora.latihan2;
 
-class lowArray {
+class LowArray {
 	private long[] a;
 	
-	public lowArray(int size) {
+	public LowArray(int size) {
 		a = new long[size];
 	}
 	
@@ -25,8 +25,8 @@ class lowArray {
 
 class LowArrayApp{
 	public static void main(String[] args) {
-		lowArray arr;
-		arr = new lowArray(100);
+		LowArray arr;
+		arr = new LowArray(100);
 		int nElmns = 0;
 		int j;
 	
