@@ -1,4 +1,4 @@
-package me.xavlora.latihan4;
+package me.xavlora.latihan5;
 
 class Queue {
     private int maxSize;
