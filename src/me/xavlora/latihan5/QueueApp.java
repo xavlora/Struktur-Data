@@ -51,7 +51,7 @@ class Queue {
 
 public class QueueApp {
     public static void main(String[] args) {
-        Queue theQueue = new Queue(5);
+        QueueA theQueue = new QueueA(5);
 
         theQueue.insert(10);
         theQueue.insert(20);
