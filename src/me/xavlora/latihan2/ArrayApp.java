@@ -37,7 +37,7 @@ class ArrayApp {
 				break;
 			}
 		}
-		if(i == nElmns) {					//Mencari "apakah terletak di akhir?"
+		if(i == nElmns) {
 			System.out.println("Tidak bisa menemukan " + searchKey);
 		} else {
 			System.out.println(searchKey + " ditemukan pada indeks " + (i+1));

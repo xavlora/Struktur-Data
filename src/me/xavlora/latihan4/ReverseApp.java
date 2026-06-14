@@ -1,7 +1,6 @@
 package me.xavlora.latihan4;
 
 import java.io.*;
-import java.sql.SQLOutput;
 
 class StackX2 {
     private int maxSize;
